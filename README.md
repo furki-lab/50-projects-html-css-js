@@ -4,5 +4,5 @@
 
 | #   | Project                                                                                                                          | Live Demo                                                                                                   |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/furki-lab/50-projects-html-css-js/tree/main/1.%20Expanding%20Cards)                           | [Live Demo](expanding-cards-c1bc5.web.app)              |
-| 02  | [Progress Steps](https://github.com/furki-lab/50-projects-html-css-js/tree/main/2.%20Progress%20bar)                             | [Live Demo](step-progress-bar.firebaseapp.com)               |
+| 01  | [Expanding Cards](https://github.com/furki-lab/50-projects-html-css-js/tree/main/1.%20Expanding%20Cards)                         |(expanding-cards-c1bc5.web.app)                                                                              |
+| 02  | [Progress Steps](https://github.com/furki-lab/50-projects-html-css-js/tree/main/2.%20Progress%20bar)                             |(step-progress-bar.firebaseapp.com)                                                                          |
