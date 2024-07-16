@@ -6,6 +6,7 @@
 - Responsive Design
 - DOM
 - Conditional Statements
+- Firebase 
 	
 
 
