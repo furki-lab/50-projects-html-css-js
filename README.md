@@ -6,7 +6,8 @@
 - Responsive Design
 - DOM
 - Conditional Statements
-- Firebase 
+- Firebase
+- Fetch API
 	
 
 
