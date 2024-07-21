@@ -31,5 +31,5 @@
 | 07  | [Split Landing Page](https://github.com/furki-lab/50-projects-html-css-js/tree/main/7.%20Split%20Landing%20Page)                 |[Link]()                                                                                                     |
 | 08  | [Form Input Wave](https://github.com/furki-lab/50-projects-html-css-js/tree/main/8.%20Form%20Input%20Wave)                       |[Link]()                                                                                                     |
 | 09  | [Sound Board](https://github.com/furki-lab/50-projects-html-css-js/tree/main/9.%20Sound%20Board)                                 |[Link]()                                                                                                     |
-| 10  | [Sound Board](https://github.com/furki-lab/50-projects-html-css-js/tree/main/10.%20Dad%20jokes)                                 |[Link]()                                                                                                     |
+| 10  | [Dad Jokes](https://github.com/furki-lab/50-projects-html-css-js/tree/main/10.%20Dad%20jokes)                                 |[Link]()                                                                                                     |
 
